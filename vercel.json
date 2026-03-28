@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/bg-ahmedabad.html" }
+  ],
+  "cleanUrls": true
+}
