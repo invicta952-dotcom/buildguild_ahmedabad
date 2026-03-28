@@ -1,3 +1,4 @@
+json
 {
   "rewrites": [
     { "source": "/", "destination": "/templates/bg-ahmedabad.html" }
