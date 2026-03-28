@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/bg-ahmedabad.html" }
+    { "source": "/", "destination": "/templates/bg-ahmedabad.html" }
   ],
   "cleanUrls": true
 }
